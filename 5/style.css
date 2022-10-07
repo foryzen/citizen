@@ -60,6 +60,8 @@ select,option {
 }
 
 .div1 {
+    display: inline-block;
+    width: 80em;
     margin-left: 20px;
     margin-bottom: 50px;
 }
