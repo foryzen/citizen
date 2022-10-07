@@ -18,7 +18,86 @@ h2,label {
 input,select,option {
     width: 16.5em;
     margin-left: 40px;
+    font-size: 20px;body {
+    margin: 0;
+}
+
+h1,h2,input,select,option,label,th {
+    font-family: 'Yu Mincho';
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2,label {
+    font-size: 25px;
+}
+
+input,select,option {
+    width: 16.5em;
+    margin-left: 40px;
     font-size: 20px;
+}
+
+select,option {
+    padding: 5px 0 5px 5px;
+    width: 9.5em;
+}
+
+.checkbox1 {
+    transform: scale(1.8);
+    width: auto;
+}
+
+.text1 {
+    width: 100vw;
+    background: #eee;
+    margin: 0;
+    padding: 20px 0 20px 20px;
+    border-bottom: 1px solid gray;
+}
+
+.text2 {
+    border-radius: 5px;
+    margin: 2em 0 0 40px;
+    color: white;
+    padding: 10px;
+    background: #3f48cc;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.text3 {
+    margin: 0 0 0 3em;
+    display: inline-block;
+}
+
+.text4 {
+    color: blue;
+    margin: 0 0 0 2em;
+    display: inline-block;
+}
+
+.div1 {
+    display: inline-block;
+    width: 80em;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.span1 {
+    text-decoration: underline;
+}
+
+.checkbox-text {
+    margin-bottom: 5px;
+}
+
+.checkbox-div {
+    margin-bottom: 30px;
+}
 }
 
 select,option {
