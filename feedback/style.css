@@ -1,0 +1,13 @@
+input,textarea,button {
+    display: block;
+    font-size: 20px;
+}
+
+input,textarea {
+    margin-bottom: 1em;
+    font-family: '游明朝';
+}
+
+.text {
+    font-size: 20px;
+}
